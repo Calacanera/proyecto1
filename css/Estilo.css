@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    max-width: 100%;
+    height: auto;
+    /* width: 100px;
+    height: 50px; */
+}
